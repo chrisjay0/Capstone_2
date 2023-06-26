@@ -16,8 +16,11 @@ This app enables users to curate a personalized grocery list and identifies the 
 
 # II. User Flows and Interactions
 
-## User Flows:
+## User Flow:
 
+<img src="https://github.com/chrisjay0/Capstone_2/blob/project_proposal/Building%20List%20User%20Flow.png"  width="600">
+
+## User Interaction Items:
 - **Registration and Login:** Users create an account and log in securely. Clear error messages guide users if issues arise.
 - **Profile and Preferences:** Users can update their profile and set preferences, such updating their profile or saved zip code.
 - **Location Setting:** Users allow geolocation tracking or manually enter a zip code to identify nearby grocery stores.
@@ -25,10 +28,6 @@ This app enables users to curate a personalized grocery list and identifies the 
 - **Item Search:** Users search for grocery items using a dynamic search bar. As they type, a dropdown menu appears with matching items
 - **List Building:** Users can click on an item in the search dropdown to add it directly to their shopping list. Users can edit the list as needed.
 - **Price Comparison:** Users initiate a price comparison when their list is complete. The app fetches real-time price data and displays the most cost-effective store based on the sum cost of the user's list.
-- **Feedback and Support:** Users can provide feedback and access a help or FAQ section for assistance.
-
-## Other User Interaction Items:
-
 - **Accessibility and Responsiveness:** The app is accessible to all users and optimized for various devices.
 - **Error Handling:** Informative error messages and loading indicators guide users during interactions.
 - **Security:** The app protects against common web vulnerabilities and handles user data securely.
