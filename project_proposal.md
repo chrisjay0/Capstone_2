@@ -18,7 +18,7 @@ This app enables users to curate a personalized grocery list and identifies the 
 
 ## User Flow:
 
-<img src="https://github.com/chrisjay0/Capstone_2/blob/project_proposal/Building%20List%20User%20Flow.png"  width="600">
+<img src="https://github.com/chrisjay0/Capstone_2/blob/project_proposal/Building_List_User_Flow_Wide.png"  width="900">
 
 ## User Interaction Items:
 - **Registration and Login:** Users create an account and log in securely. Clear error messages guide users if issues arise.
